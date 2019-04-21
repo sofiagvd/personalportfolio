@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+
+
+}
+h1 {
+  color: darkorange;
+  font-size: 80px;
+  height: 100px;
+  margin-top: 50px;
+  margin left: 500px;
+}
+h2 {
+  color: darkorange;
+  font-size: 90px;
+  height: 100px;
+  margin-top: 20px;
+
+}
+h3 {
+  color: darkorange;
+  font-size: 80px;
+  height: 100px;
+  width: 40%;
+
+}
+h4 {
+	color: grey;
+	font-size: 40px;
+	position: center;
+	
+}
+h5{
+	color: black;
+	font-size: 22px;
+}
+h6{
+	color: black;
+	font-size: 20px;
+}
+p {
+  color: grey;
+  font-size: 20px;
+}
